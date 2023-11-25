@@ -21,7 +21,7 @@ When you click on a post it will send you to the specific page and show you the 
 
 ![image](https://github.com/SamuelIMR/FinalProject/assets/99154293/fea12fa4-0225-43a4-b538-20d42ad3b8f0)
 
-##Contact
+## Contact
 
 ![image](https://github.com/SamuelIMR/FinalProject/assets/99154293/bafbf910-0749-412f-a85a-28cb80d3f142)
 
